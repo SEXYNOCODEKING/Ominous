@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 96febb02f17ee6a448dfb86f4ed8e986
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ZoodHarit4Bit-Thai
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 58e28c70b9a612f4b8c42c74a59e8b4f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
