@@ -6,4 +6,4 @@ Team Members
 - ภรัณยู สันติวงศ์ (Pharunyoo Santiwong) 1913210918
 - นันทพงศ์ บูรณจินดา (Nuntapong Buranajinda) 1913210900
 - ฉมาชล กัณหา (Chamachon Kanha) 1913211122
-- วีรภัทร ขันติกุล (Veeraphat Kanthikul) 1913210892 // Supporter
+- ธนภูมิ งามวงศ์ตระกูล (Tanapoom Namwongtrakoon) 1913211106
